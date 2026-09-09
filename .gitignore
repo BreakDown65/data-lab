@@ -12,5 +12,8 @@ wheels/
 # Jupyter
 .ipynb_checkpoints/
 
+# Könyv adatok
+/learning/pandas-workout/pandas-workout-data/
+
 # Saját/bizalmas adatok
-data/private/
+/data/private/
